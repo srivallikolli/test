@@ -73,6 +73,36 @@
 				<Prp name="relpath" type="S" value="09-04-2015_02_09 PM_06_428\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log5">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="42103.6890304977"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="index" type="I" value="5"/>
+				<Prp name="key" type="S" value="{9E9FBDA6-529C-4E80-93D2-20CDF2128E63}"/>
+				<Prp name="nameofroot" type="S" value="ProjectSuite2"/>
+				<Prp name="relpath" type="S" value="09-04-2015_04_32 PM_12_233\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log6">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="42103.6907879167"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="index" type="I" value="6"/>
+				<Prp name="key" type="S" value="{F503E99B-CD13-44AE-BB03-4679A4E66A99}"/>
+				<Prp name="nameofroot" type="S" value="ProjectSuite2"/>
+				<Prp name="relpath" type="S" value="09-04-2015_04_34 PM_44_74\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log7">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="42103.7064685995"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="index" type="I" value="7"/>
+				<Prp name="key" type="S" value="{8CFD3254-BB5C-482E-A552-6381E2E4FFA7}"/>
+				<Prp name="nameofroot" type="S" value="ProjectSuite2"/>
+				<Prp name="relpath" type="S" value="09-04-2015_04_57 PM_18_886\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{6511DB44-2372-47B8-8349-ADA0DB4D9E14}"/>
 		<Prp name="version" type="S" value="7.0"/>
