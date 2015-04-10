@@ -103,6 +103,16 @@
 				<Prp name="relpath" type="S" value="09-04-2015_04_57 PM_18_886\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log8">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="42103.7618625347"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="index" type="I" value="8"/>
+				<Prp name="key" type="S" value="{E4639BEA-5B31-4E44-A2AB-2756FBA3B608}"/>
+				<Prp name="nameofroot" type="S" value="ProjectSuite2"/>
+				<Prp name="relpath" type="S" value="09-04-2015_06_17 PM_04_921\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{6511DB44-2372-47B8-8349-ADA0DB4D9E14}"/>
 		<Prp name="version" type="S" value="7.0"/>
